@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Tasnim Rahman, pursuing my Bachelor of Engineering in Computer Science degree at Bangladesh University of Engineering & Technology (BUET).
-- I was previously working as a part time software developer at University of Prince Mugrin, Saudi Arabia.
+- 👋 Hi, I’m Tasnim Rahman, Computer Science Graduate from Bangladesh University of Engineering & Technology (BUET).
+- I'm working as a junior software engineer at Intelligent Machines Limited.
+- I was previously working as a part time software developer intern at University of Prince Mugrin, Saudi Arabia.
 - 📫 How to reach me: tasnim282@gmail.com, 1605102@ugrad.cse.buet.ac.bd
 
 <!---
